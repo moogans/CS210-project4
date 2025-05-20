@@ -1,0 +1,8 @@
+Implementation Status: Complete
+
+✓code compiles 
+✓ChatServer waits for connection
+✓single ChatClient can log onto ChatServer
+✓multiple ChatCLients can log into ChatServer
+✓ChatServer broadcasts messages with username
+✓Chatserver broadcasts messages with username to all ChatCLients
